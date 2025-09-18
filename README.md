@@ -31,8 +31,8 @@ It provides an easy-to-use interface with category icons, allowing users to quic
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/unit-converter.git
-   cd unit-converter
+   git clone https://github.com/Intaza/UNIT-CONVERTER.git
+   cd UNIT-CONVERTER
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
