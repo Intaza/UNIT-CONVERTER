@@ -9,7 +9,7 @@ It provides an easy-to-use interface with category icons, allowing users to quic
 
 ![Project Screenshot](screenshot.png)
 ## With Background
-![Project Screenshot with Background](screenshot1.png)
+![Project Screenshot with Background](Screenshot1.png)
 
 ---
 
